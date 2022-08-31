@@ -1,0 +1,12 @@
+# SmartInventory-App
+![Screenshot_2022-07-31-17-50-23-87_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732778-ce191f41-94cc-41a5-af8f-6abeaa22d106.jpg)
+![Screenshot_2022-07-31-17-50-29-06_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732787-a709acda-c98d-4d8a-b8e2-09ed625c13ec.jpg)
+![Screenshot_2022-07-31-17-50-34-90_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732791-d1ac6892-73fa-48f3-8c32-e6041adf99e0.jpg)
+![Screenshot_2022-07-31-17-59-27-14_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732795-dd1a4e86-5df7-4208-80cb-6101786b1b09.jpg)
+![Screenshot_2022-07-31-17-59-33-92_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732799-e36538bb-0139-4110-a7c8-79b2b727c9ee.jpg)
+![Screenshot_2022-07-31-18-00-10-81_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732804-b722beab-00d7-4de2-be89-1b3177de6f76.jpg)
+![Screenshot_2022-07-31-18-00-22-19_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732807-ca410c60-9d3e-452f-b25f-1694dc29ac1f.jpg)
+![Screenshot_2022-07-31-18-00-32-15_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732810-469e3330-9142-43e4-a2db-325f808339f0.jpg)
+![Screenshot_2022-08-01-09-58-50-32_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732814-9871dc68-d997-4c2f-8f34-9637b64fd058.jpg)
+![Screenshot_2022-08-01-10-00-48-82_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732816-fe9559a3-82fe-4f0e-8344-787b534d7cbc.jpg)
+![Screenshot_2022-08-01-12-51-41-09_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732818-d28f0d44-3be5-4215-84c5-9bfa704f38f6.jpg)
