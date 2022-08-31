@@ -1,4 +1,4 @@
-# SmartInventory-App
+# SmartInventory-App Screenshots
 ![Screenshot_2022-07-31-17-50-23-87_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732778-ce191f41-94cc-41a5-af8f-6abeaa22d106.jpg)
 ![Screenshot_2022-07-31-17-50-29-06_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732787-a709acda-c98d-4d8a-b8e2-09ed625c13ec.jpg)
 ![Screenshot_2022-07-31-17-50-34-90_0b63a467d83ca8aecfe9563673b44f9c](https://user-images.githubusercontent.com/62498603/187732791-d1ac6892-73fa-48f3-8c32-e6041adf99e0.jpg)
